@@ -1,0 +1,12 @@
+{
+  "name": "loadzip",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@webrecorder/wabac": "^2.15.5",
+    "minimatch": "^7.1.1",
+    "yargs": "^17.7.1"
+  }
+}
